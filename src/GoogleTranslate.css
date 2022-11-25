@@ -1,0 +1,44 @@
+#goog-gt-tt {
+    display: none !important;
+}
+
+.goog-te-banner-frame {
+    display: none !important;
+}
+
+.goog-te-menu-value:hover {
+    text-decoration: none !important;
+
+}
+
+body {
+    top: 0 !important;
+}
+
+body:hover {
+    background-color: transparent !important;
+    box-shadow: none;
+}
+
+
+#google_translate_element2 {
+    display: none !important;
+}
+
+.goog-text-highlight {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+.goog-tooltip {
+    display: none !important;
+}
+.goog-tooltip:hover {
+    display: none !important;
+}
+
+.goog-text-highlight:hover {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+}
